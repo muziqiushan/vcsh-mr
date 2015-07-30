@@ -1,2 +1,2 @@
-[$HOME/.config/vcsh/repo.d/zsh.git]
+[$HOME/.config/vcsh/repo.d/vim.git]
 checkout = vcsh clone https://github.com/muziqiushan/vcsh-vim.git vim
